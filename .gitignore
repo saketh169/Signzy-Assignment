@@ -11,9 +11,8 @@ frontend/dist/
 .env.local
 
 # Documentation and statement files to ignore
-state.md
-statement.md
 Statement.md
+
 
 # Logs
 *.log
