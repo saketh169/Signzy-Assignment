@@ -1,0 +1,24 @@
+# Dependency folders
+backend/node_modules/
+frontend/node_modules/
+node_modules/
+
+# Production build outputs
+frontend/dist/
+
+# Local environment configuration keys
+.env
+.env.local
+
+# Documentation and statement files to ignore
+state.md
+statement.md
+Statement.md
+
+# Logs
+*.log
+logs/
+
+# System and OS metadata
+.DS_Store
+Thumbs.db
